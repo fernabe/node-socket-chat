@@ -1,6 +1,7 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Chat creado con node, express y socket.io. 
+La interfaz gráfica todavía no está construida
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
